@@ -1,0 +1,274 @@
+{
+  "savedAt": 1793457487186,
+  "currentThemeId": 5,
+  "slotMode": "tier_100",
+  "currentTier": {
+    "total": 24,
+    "cols": 4,
+    "rows": 6
+  },
+  "seats": [
+    {
+      "index": 0,
+      "row": 0,
+      "col": 0,
+      "occupied": true,
+      "user": {
+        "uniqueId": "sim_phật_tử_diệu_tâm",
+        "nickname": "Phật Tử Diệu Tâm",
+        "skin": "thantai",
+        "joinedAt": 1793457234196,
+        "lastActive": 1793457234196,
+        "lastIncenseAt": 1793457234196,
+        "meritPoints": 0,
+        "hasMeritAura": false,
+        "prayerText": "thantai Nam Mô A Di Đà Phật 🙏",
+        "avatarUrl": ""
+      }
+    },
+    {
+      "index": 1,
+      "row": 0,
+      "col": 1,
+      "occupied": true,
+      "user": {
+        "uniqueId": "sim_trộm",
+        "nickname": "Trộm",
+        "skin": "ninja",
+        "joinedAt": 1793457251350,
+        "lastActive": 1793457251350,
+        "lastIncenseAt": 1793457251350,
+        "meritPoints": 0,
+        "hasMeritAura": false,
+        "prayerText": "ninja Nam Mô A Di Đà Phật 🙏",
+        "avatarUrl": ""
+      }
+    },
+    {
+      "index": 2,
+      "row": 0,
+      "col": 2,
+      "occupied": true,
+      "user": {
+        "uniqueId": "sim_sư",
+        "nickname": "Sư",
+        "skin": "caotang",
+        "joinedAt": 1793457259326,
+        "lastActive": 1793457259326,
+        "lastIncenseAt": 1793457259326,
+        "meritPoints": 0,
+        "hasMeritAura": true,
+        "prayerText": "caotang Nam Mô A Di Đà Phật 🙏",
+        "avatarUrl": ""
+      }
+    },
+    {
+      "index": 3,
+      "row": 0,
+      "col": 3,
+      "occupied": true,
+      "user": {
+        "uniqueId": "sim_đức_cha_phrro",
+        "nickname": "Đức Cha Phrro",
+        "skin": "duccha",
+        "joinedAt": 1793457274982,
+        "lastActive": 1793457274982,
+        "lastIncenseAt": 1793457274982,
+        "meritPoints": 0,
+        "hasMeritAura": false,
+        "prayerText": "duccha Nam Mô A Di Đà Phật 🙏",
+        "avatarUrl": ""
+      }
+    },
+    {
+      "index": 4,
+      "row": 1,
+      "col": 0,
+      "occupied": true,
+      "user": {
+        "uniqueId": "theft_heart",
+        "nickname": "𝖙𝖍𝖊𝖋",
+        "skin": "nam",
+        "joinedAt": 1793457352197,
+        "lastActive": 1793457352197,
+        "lastIncenseAt": 1793457352197,
+        "meritPoints": 0,
+        "hasMeritAura": false,
+        "prayerText": "adidaphat",
+        "avatarUrl": ""
+      }
+    },
+    {
+      "index": 5,
+      "row": 1,
+      "col": 1,
+      "occupied": false,
+      "user": null
+    },
+    {
+      "index": 6,
+      "row": 1,
+      "col": 2,
+      "occupied": false,
+      "user": null
+    },
+    {
+      "index": 7,
+      "row": 1,
+      "col": 3,
+      "occupied": false,
+      "user": null
+    },
+    {
+      "index": 8,
+      "row": 2,
+      "col": 0,
+      "occupied": false,
+      "user": null
+    },
+    {
+      "index": 9,
+      "row": 2,
+      "col": 1,
+      "occupied": false,
+      "user": null
+    },
+    {
+      "index": 10,
+      "row": 2,
+      "col": 2,
+      "occupied": false,
+      "user": null
+    },
+    {
+      "index": 11,
+      "row": 2,
+      "col": 3,
+      "occupied": false,
+      "user": null
+    },
+    {
+      "index": 12,
+      "row": 3,
+      "col": 0,
+      "occupied": false,
+      "user": null
+    },
+    {
+      "index": 13,
+      "row": 3,
+      "col": 1,
+      "occupied": false,
+      "user": null
+    },
+    {
+      "index": 14,
+      "row": 3,
+      "col": 2,
+      "occupied": false,
+      "user": null
+    },
+    {
+      "index": 15,
+      "row": 3,
+      "col": 3,
+      "occupied": false,
+      "user": null
+    },
+    {
+      "index": 16,
+      "row": 4,
+      "col": 0,
+      "occupied": false,
+      "user": null
+    },
+    {
+      "index": 17,
+      "row": 4,
+      "col": 1,
+      "occupied": false,
+      "user": null
+    },
+    {
+      "index": 18,
+      "row": 4,
+      "col": 2,
+      "occupied": false,
+      "user": null
+    },
+    {
+      "index": 19,
+      "row": 4,
+      "col": 3,
+      "occupied": false,
+      "user": null
+    },
+    {
+      "index": 20,
+      "row": 5,
+      "col": 0,
+      "occupied": false,
+      "user": null
+    },
+    {
+      "index": 21,
+      "row": 5,
+      "col": 1,
+      "occupied": false,
+      "user": null
+    },
+    {
+      "index": 22,
+      "row": 5,
+      "col": 2,
+      "occupied": false,
+      "user": null
+    },
+    {
+      "index": 23,
+      "row": 5,
+      "col": 3,
+      "occupied": false,
+      "user": null
+    }
+  ],
+  "meritList": [
+    {
+      "uniqueId": "test_user_minh_tue",
+      "nickname": "Phật Tử Minh Tuệ",
+      "points": 50,
+      "lastGift": "Hoa Sen Vàng",
+      "updatedAt": 1793456334938
+    }
+  ],
+  "voiceConfig": {
+    "id": "nam_tram_doc_kinh",
+    "name": "Giọng Nam Trầm Ấm Đọc Kinh (Khuyên dùng)",
+    "voiceName": "vi-VN-NamMinhNeural",
+    "pitchHz": -15,
+    "ratePercent": -20,
+    "reverbLevel": 0.3,
+    "warmthDb": 4.5,
+    "playbackRate": 0.93,
+    "mciSpeed": 930,
+    "woodenFishEnabled": true,
+    "woodenFishBpm": 46,
+    "bellEnabled": true,
+    "bgMusicEnabled": true,
+    "bgMusicTrack": "zen_pentatonic_432",
+    "customMp3Url": "",
+    "bgMusicVolume": 0.4,
+    "autoChantEnabled": true,
+    "autoChantIntervalSec": 120,
+    "meritTemplate": "Nam Mô A Di Đà Phật. Xin thành tâm hồi hướng công đức cho thí chủ {name} đã phát tâm cúng dường {gift}. Nguyện cầu cho thí chủ cùng gia quyến thân tâm an lạc, sở cầu như ý.",
+    "presetId": "nam_nhuanduc"
+  },
+  "hudConfig": {
+    "guidePosition": "mid_left",
+    "guideOffsetY": 30,
+    "guideOpacity": 0.95,
+    "guideCollapsed": true,
+    "carouselSpeedSec": 6
+  },
+  "activeTikTokUsername": "review.nghip.v"
+}
