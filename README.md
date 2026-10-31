@@ -319,3 +319,12 @@ Dự án WinForms được viết tương thích chuẩn C# 5 để biên dịch
 1. Mở [`ThienDuongControl.exe`](file:///g:/WEB/Tiktok/ThienDuongControl.exe) (tự động bật Node Server và nạp 723 quà từ TikTok API).
 2. Bấm **📱 Mở Cửa Sổ Overlay 9:16** (hoặc thêm nguồn **Browser / Liên kết** `http://localhost:3000` với kích thước `1080x1920` trong **TikTok LIVE Studio** / **OBS**).
 3. Nhập `@username` kênh TikTok đang bật Live vào ô **🔴 Nhập @ID Kênh TikTok đang Live** rồi bấm **🔗 Kết Nối**.
+### Ủng hộ tác giả khi sản phẩm Vive code bị khinh miệt
+Dự án chia sẻ miễn phí. sau này sẽ có thể nâng cấp lên các template khác và sẽ thông báo trên git, để ủng hộ bạn có thể chuyển khoản:
+QR chuyển khoản Teckombank tùy tâm.
+![alt text](image.png)
+Ngân hàng	Teckombank
+Số tài khoản	1903 3054 9770 14 
+Chủ tài khoản	ĐINH QUỐC HỘI
+
+Xin cảm ơn các bạn.
